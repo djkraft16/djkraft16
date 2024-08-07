@@ -1,5 +1,5 @@
 ## About Me
-Hi! My name is Dylan Kraft and I am a computer science student at the University of St. Thomas in St. Paul, MN. This GitHub profile contains primarily computer science projects I've worked on for my college courses, in addition to my personal web development project that I am currently working on. Feel free to take a look at any of the projects on here if they are of interest!
+Hi! My name is Dylan Kraft and I am a computer science student at the University of St. Thomas in St. Paul, MN. This GitHub profile contains primarily computer science projects I've worked on for my college courses, in addition to my personal web development project that I am currently working on. Feel free to take a look at any of the projects on here if they are of interest. I have pinned some that are some of my favorites!
 
 <!--
 **djkraft16/djkraft16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
